@@ -1,3 +1,6 @@
 This is Sample 1
 Adding text from github
 This is 3rd line adding from github
+
+This change belongs to feature1 branch
+
